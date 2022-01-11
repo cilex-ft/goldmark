@@ -1,3 +1,5 @@
+_Trying to hack goldmark to support french punctuation rules..._
+
 goldmark
 ==========================================
 
